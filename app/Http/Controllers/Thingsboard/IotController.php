@@ -17,7 +17,7 @@ class IotController extends Controller
     //
     private $token;
 
-    private $things_host = "https://liwad.bizibug.com:443";
+    private $things_host = "http://192.168.5.100:9090";
 
     private $customer_id = "e74e6dc0-336e-11ee-9b37-17bc1eaae52e";
 
